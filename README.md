@@ -1,34 +1,40 @@
 ### osx-icongl
 
 
-* tema de iconos estilo ios
+* theme icons ios style
 
 
-## Apariencia
-
-
-![dock](images/dock.png "De 150 x 150 píxeles")
-
-
-![lanza](images/lanza.png "De 150 x 150 píxeles")
-
-
-![app](images/app.png "De 150 x 150 píxeles")
+## preview
 
 
 ![navegadores](images/navegadores.png "De 150 x 150 píxeles")
 
 
+![dock](images/dock.png "De 150 x 150 píxeles")
+
+
+
+
+![lanza](images/lanza.png "De 150 x 150 píxeles")
+
+
+
+
+![app](images/app.png "De 150 x 150 píxeles")
+
+
+
+
 ![office](images/office.png "De 150 x 150 píxeles")
 
 
-## instalacion
+## instalation
 
 
-1.- clona el repositorio o descargalo en un archivador
+1.- clone the repository or download it in a file cabinet
 
 
-2.- mueve la carpeta osx al direccion de fichero * /usr/share/icons/
+2.- move the osx folder to the file address * / usr / share / icons / *
 
 
-3.- busca en tu selector de temas de iconos el tema osx
+3.- Look in your theme selector for icons osx theme
