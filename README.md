@@ -34,7 +34,7 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.- move the osx folder to the file address * / usr / share / icons / *
+2.- move the osx folder to the file address */usr/share/icons/*
 
 
-3.- Look in your theme selector for icons osx theme
+3.- look for the osx theme in your icon theme selector
