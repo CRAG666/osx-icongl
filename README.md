@@ -34,13 +34,4 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.- there will be a terminal inside the directory
-
-
-![terminal](images/te.png "De 150 x 150 píxeles")
-
-
-3.- write "python3 install.py"
-
-
-![python3](images/py.png "De 150 x 150 píxeles")
+2.-run the "install" application
