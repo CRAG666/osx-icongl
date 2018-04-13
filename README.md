@@ -34,7 +34,13 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.- move the osx folder to the file address */usr/share/icons/*
+2.- there will be a terminal inside the directory
 
 
-3.- look for the osx theme in your icon theme selector
+![terminal](images/te.png "De 150 x 150 píxeles")
+
+
+3.- write "python3 install.py"
+
+
+![python3](images/py.png "De 150 x 150 píxeles")
