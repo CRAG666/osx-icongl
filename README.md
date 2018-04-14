@@ -34,4 +34,4 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.-run the "install" application
+2.-run the "installer" file to install
