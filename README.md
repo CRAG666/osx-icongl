@@ -28,10 +28,18 @@
 ![office](images/office.png "De 150 x 150 píxeles")
 
 
-## instalation
+## instalation GUI (64 Bits)
 
 
 1.- clone the repository or download it in a file cabinet
 
 
 2.-run the "installer" file to install
+
+## instalation No GUI (32 Bits)
+
+
+1.- clone the repository or download it in a file cabinet
+
+
+2.- Execute the command "python install-V1.py"
