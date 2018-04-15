@@ -34,7 +34,7 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.-run the "installer" file to install
+2.-run in terminal "sudo ./installer"
 
 ## instalation No GUI (32 Bits)
 
