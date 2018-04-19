@@ -34,7 +34,11 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.-run the installer file 
+2.-run in terminal (
+ ``
+ $ chmod +x installer && ./installer
+ ``
+) 
 
 ## instalation No GUI (32 Bits)
 
