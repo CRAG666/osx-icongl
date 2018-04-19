@@ -34,16 +34,7 @@
 1.- clone the repository or download it in a file cabinet
 
 
-2.-run in terminal (
+2.-run in terminal
  ``
  $ chmod +x installer && ./installer
  ``
-) 
-
-## instalation No GUI (32 Bits)
-
-
-1.- clone the repository or download it in a file cabinet
-
-
-2.- Execute the command "python install-V1.py"
