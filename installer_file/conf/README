@@ -1,4 +1,4 @@
-folder= carpeta a instalar
-folderInstall= carpeta donde se instalara
-name= nombre del programa
-root= es necesario root?
+folder= carpeta a instalar (Ubicada en el mismo nivel que installer_file)
+folderInstall= carpeta donde se instalara 
+name= nombre del programa (Ventana y banner del instalador)
+root= es necesario ser root para la instalaión?
