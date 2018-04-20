@@ -1,4 +1,4 @@
 folder= carpeta a instalar
-folderInstall= carpeta de instalación
+folderInstall= carpeta donde se instalara
 name= nombre del programa
 root= es necesario root?
