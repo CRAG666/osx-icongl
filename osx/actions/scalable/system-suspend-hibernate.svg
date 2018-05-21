@@ -1,1 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><linearGradient gradientUnits="userSpaceOnUse" y2="517.8" x2="0" y1="545.8"><stop stop-color="#3889e9"/><stop offset="1" stop-color="#5ea5fb"/></linearGradient></defs><circle cx="400.57" cy="531.8" r="14" fill="#5ea5fb" fill-opacity="0" transform="matrix(.53426 0 0 .53426-203-273.1)"/><path d="m12.2 15.267c0-3.322.896-6.43 2.448-9.113.376-.649-.191-1.451-.918-1.265-8.38 2.152-14.441 10.07-13.663 19.29.736 8.701 7.768 15.803 16.463 16.617 6.03.565 11.517-1.811 15.221-5.848.5-.546.073-1.432-.666-1.401-.196.009-.395.013-.594.013-10.1 0-18.291-8.189-18.291-18.293" fill="#ffffff" transform="matrix(.44425 0 0 .44425 3.914.845)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="system-suspend-hibernate.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      </style>
+  </defs>
+  <path
+     style="color:#f2f2f2;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.25"
+     d="M 16,1 A 1.25,1.25 0 0 0 14.75,2.25 1.25,1.25 0 0 0 16,3.5 1.25,1.25 0 0 0 17.25,2.25 1.25,1.25 0 0 0 16,1 Z M 4.9526362,4.0664062 4.0664062,4.9526362 6.720215,7.6040037 7.604004,6.720215 Z m 22.0947278,0 -2.651368,2.6538088 0.883789,0.8837888 2.653809,-2.6513675 z M 16,4.75 A 11.25,11.25 0 0 0 4.75,16 11.25,11.25 0 0 0 16,27.25 11.25,11.25 0 0 0 27.25,16 11.25,11.25 0 0 0 16,4.75 Z M 16,6 A 10,10 0 0 1 26,16 10,10 0 0 1 16,26 10,10 0 0 1 6,16 10,10 0 0 1 16,6 Z M 2.25,14.75 A 1.25,1.25 0 0 0 1,16 1.25,1.25 0 0 0 2.25,17.25 1.25,1.25 0 0 0 3.5,16 1.25,1.25 0 0 0 2.25,14.75 Z m 27.5,0 A 1.25,1.25 0 0 0 28.5,16 1.25,1.25 0 0 0 29.75,17.25 1.25,1.25 0 0 0 31,16 1.25,1.25 0 0 0 29.75,14.75 Z m -23.029785,9.645996 -2.6538088,2.651368 0.88623,0.88623 2.6513678,-2.653809 z m 18.55957,0 -0.883789,0.883789 2.651368,2.653809 0.88623,-0.88623 z M 16,28.5 A 1.25,1.25 0 0 0 14.75,29.75 1.25,1.25 0 0 0 16,31 1.25,1.25 0 0 0 17.25,29.75 1.25,1.25 0 0 0 16,28.5 Z"
+     class="ColorScheme-Text"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

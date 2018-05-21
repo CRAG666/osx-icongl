@@ -1,0 +1,5 @@
+ git add README.md
+  508  git commit -m 'actualizacion'
+  509  git pull origin master
+  510  git push origin master
+
